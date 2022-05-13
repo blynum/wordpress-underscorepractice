@@ -22,7 +22,7 @@ get_header( 'widgets' );
   <section class="featured-work">
 	  <div class="wrap">
 		<div class="inner">
-			<h1>My Work</h1>
+			<h1>My Portfolio</h1>
 		</div>
 	</div>
 </section>
