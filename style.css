@@ -687,10 +687,10 @@ a:hover, a:focus, a:active {
 }
 
 .header-section .menu a:hover {
-	color: #cac657;
-	transition: all 0.3s ease;
-	border-bottom: 1px solid #57c1ca ;
-	padding-bottom: 5px;
+	color: #57c1ca !important;
+	transition: all 0.3s ease !important;
+	border-bottom: 1px solid #57c1ca !important ;
+	padding-bottom: 5px !important;
 }
 
 .header-section .current_page_item a {
@@ -698,6 +698,12 @@ a:hover, a:focus, a:active {
 	border-bottom: 1px solid #57c1ca ;
 	padding-bottom: 5px;
 
+}
+
+.header-section #menu-item-79.current_page_item a {
+	color: #414042;
+    border-bottom: none;
+    padding-bottom: 0;
 }
 
 a:focus {
