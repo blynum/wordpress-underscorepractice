@@ -1055,6 +1055,21 @@ a:hover, a:active {
 	padding: 70px 20px 40px;
 }
 
+/*--------------------------------------------------------------
+# Below Header
+--------------------------------------------------------------*/
+
+#below-header {
+	background: url(http://techybelleunderscores2.local/wp-content/uploads/2022/05/page-header.png);
+	background-size: cover;
+	background-position: left top;
+	height: 180px;
+}
+
+#below-header h1 {
+	text-align: center;
+    margin-top: 40px;
+}
 
 /*--------------------------------------------------------------
 # Footer
